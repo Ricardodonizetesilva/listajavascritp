@@ -1,0 +1,13 @@
+<html>
+	<head>
+			<scritpt src="fonte.js" type="text\javascript"> </script>
+	</head>
+	<body>
+	<p> Escolha uma opçoes </P>
+	<p> 1. Media entre os numero digitados </p>
+	<p> 2. Diferença do maior pelo menor </P>
+	<p> 3. Produto entre os numeros digitados </p>
+	<p> 4. Divisao do promeiro pelo segundo</p>
+	<p> opcao <input type="number" id="opcao"</p>
+	</body>
+</html>
